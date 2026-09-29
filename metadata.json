@@ -1,0 +1,6 @@
+{
+  "name": "AeroAcoustics - Supersonic Flight & Sound Wave Physics",
+  "description": "Simulador interativo de física das ondas sonoras no voo de aviões (subsônico, transônico e supersônico), cone de Mach, duplo estrondo sônico e efeito Doppler baseado na aula F105 UNICAMP com chatbot especialista Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
